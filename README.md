@@ -81,6 +81,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aalwf/aalwf/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/aalwf/aalwf/blob/output/github-contribution-grid-snake2.svg)
 
 ###
