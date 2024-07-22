@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning ReactJs<br>🎯 Goals: Become a Fullstack Developer</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Typescript<br>🎯 Goals: Become a Fullstack Developer</p>
 
 ###
 
