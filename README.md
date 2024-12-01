@@ -9,19 +9,11 @@
 
 - 🌱 I’m currently learning **Typescript, Vue**
 
-- 👯 I’m looking to collaborate on **Stempert E-Commerce**
-
-- 🤝 I’m looking for help with **Stempert E-Commerce**
-
-- 👨‍💻 All of my projects are available at [s.id/aalwf](s.id/aalwf)
-
-- 📝 I regularly write articles on [s.id/aalwf](s.id/aalwf)
-
 - 💬 Ask me about **React Native**
 
 - 📫 How to reach me **alwafielgin@gmail.com**
 
-- 📄 Know about my experiences [s.id/aalwf](s.id/aalwf)
+- 📄 Know about my experiences [LinkedIn]([s.id/aalwf](https://www.linkedin.com/in/elgin-al-wafi-602339334/))
 
 - ⚡ Fun fact **Not married yet**
 
