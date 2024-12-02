@@ -101,4 +101,4 @@
 
 ### Music 🎧
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3wGgvb0cnb22UtYWIGvrpS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify Playlist](https://img.shields.io/badge/Listen%20on%20Spotify-Playlist-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3wGgvb0cnb22UtYWIGvrpS)
