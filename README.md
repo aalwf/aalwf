@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Stempert E-Commerce**
 
-- 🌱 I’m currently learning **Typescript, Figma**
+- 🌱 I’m currently learning **Flutter, Swift, Python**
 
 - 💬 Ask me about **React Native**
 
