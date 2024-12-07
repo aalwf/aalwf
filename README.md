@@ -13,7 +13,7 @@
 
 ![React](https://img.shields.io/badge/React-Developer-61DAFB?logo=react&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-API-235A97?logo=typescript&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-Documentation-EF5350?logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API-EF5350?logo=postman&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-Developer-F44336?logo=laravel&logoColor=white)
 
 [![Linkedin: elgin](https://img.shields.io/badge/-Elgin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elgin/)](https://www.linkedin.com/in/elgin/)
