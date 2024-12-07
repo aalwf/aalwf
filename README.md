@@ -11,10 +11,10 @@
     <img src="https://komarev.com/ghpvc/?username=aalwf&label=Profile%20views&color=0e75b6&style=flat" alt="aalwf" />
 </p>
 
-![React](https://img.shields.io/badge/React-Developer-61DAFB?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F44336?logo=laravel&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-API-235A97?logo=typescript&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API-EF5350?logo=postman&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Developer-F44336?logo=laravel&logoColor=white)
 
 [![Linkedin: elgin](https://img.shields.io/badge/-Elgin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elgin/)](https://www.linkedin.com/in/elgin/)
 ![GitHub followers](https://img.shields.io/github/followers/aalwf?label=Follow&style=social)
