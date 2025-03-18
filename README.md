@@ -1,94 +1,97 @@
-<h1 align="center">Hi 👋, I'm Elgin Al-wafi</h1>
-
-<h3 align="center">Passionate software developer from Indonesia</h3>
-
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=aalwf&label=Profile%20views&color=0e75b6&style=flat" alt="aalwf" />
-</p>
-
-![GitHub followers](https://img.shields.io/github/followers/aalwf?label=Follow&style=social)
-
-### About Me
-
-- 🔭 I’m currently working on **Stempert E-Commerce**
-
-- 🌱 I’m currently learning **Flutter, Swift, Python**
-
-- 💬 Ask me about **React Native**
-
-- 📫 How to reach me **alwafielgin@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn]([s.id/aalwf](https://www.linkedin.com/in/elgin-al-wafi-602339334/))
-
-- ⚡ Fun fact **Not married yet**
-
-### I code with 🧑🏻‍💻
-
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+###
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <a href="https://www.linkedin.com/in/aalwf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/_si.alwf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="mailto:alwafielgin@gmail.com?subject=Hi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aalwf.aalwf&"  />
+</div>
+
+###
+
+<h1 align="center">Hi 👋, I'm Elgin Al-wafi</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Software Engineer from Indonesian<br><br>- 🔭 I’m working as Fullstack Developer in PT. Digjaya Mahakarya Agency<br>- 📚 I'm currently learning Python 3<br>- ⚡ In my free time I work on projects from freelance clients.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-    <h2>My Top Languages on GitHub 💻</h2>
-    <a href="https://github.com/aalwf/github-readme-stats">
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=aalwf&theme=dark&border_radius=20&hide_title=true&layout=compact&langs_count=4"
-            alt="GitHub Readme Stats"
-            width="350"
-        >
-    </a>
+  <img src="https://github-profile-trophy.vercel.app?username=aalwf&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=aalwf&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aalwf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aalwf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aalwf&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-### Thropy 🏆
+###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aalwf&theme=onedark&row=1&column=5)](https://github.com/aalwf/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aalwf/aalwf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aalwf/aalwf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aalwf/aalwf/output/pacman-contribution-graph.svg">
+</picture>
 
-### Statistics 📊
-
-| <a href="https://github.com/aalwf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aalwf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
-| ------------- |
+###
 
 <div align="center">
-    <h2>Let's Connect! 🤙🏽</h2>
-    <a href="https://linkedin.com/in/elgin-al-wafi-602339334">
-        <img
-            src="https://img.shields.io/badge/Elgin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                alt="LinkedIn"
-        >
-    </a>
-    <a href="mailto:alwafielgin@gmail.com">
-        <img
-            src="https://img.shields.io/badge/alwafielgin-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-                alt="Email"
-        >
-    </a>
+  <a href="https://open.spotify.com/user/alwafey">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qwobi7mt66js6yrxl2la5wpmsu&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
-### Music 🎧
-
-[![Spotify Playlist](https://img.shields.io/badge/Listen%20on%20Spotify-Playlist-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3wGgvb0cnb22UtYWIGvrpS)
+###
