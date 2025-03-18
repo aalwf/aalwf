@@ -5,15 +5,8 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aalwf&label=Profile%20views&color=0e75b6&style=flat" alt="aalwf" />
+    ![GitHub followers](https://img.shields.io/github/followers/aalwf?label=Follow&style=social)
 </p>
-
-![React](https://img.shields.io/badge/React-Dev-61DAFB?logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-Dev-F44336?logo=laravel&logoColor=F44336)
-![Typescript](https://img.shields.io/badge/Typescript-API-235A97?logo=typescript&logoColor=235A97)
-![Postman](https://img.shields.io/badge/Postman-API-EF5350?logo=postman&logoColor=EF5350)
-
-[![Linkedin: elgin](https://img.shields.io/badge/-Elgin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elgin/)](https://www.linkedin.com/in/elgin/)
-![GitHub followers](https://img.shields.io/github/followers/aalwf?label=Follow&style=social)
 
 ### About Me
 
