@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Software Engineer from Indonesian<br><br>- 🔭 I’m working as Fullstack Developer in PT. Digjaya Mahakarya Agency<br>- 📚 I'm currently learning Python 3<br>- ⚡ In my free time I work on projects from freelance clients.</p>
+<p align="left">I'm Software Engineer from Indonesian<br><br>- 🔭 I’m working as Serabutan<br>- 📚 I'm currently learning Python 3<br>- ⚡ In my free time I work on projects from freelance clients.</p>
 
 ###
 
